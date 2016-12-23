@@ -1,2 +1,1 @@
-First line of the sample FILE.
-Second line of the sample FILE.
+A sample text file.
