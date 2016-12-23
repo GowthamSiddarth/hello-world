@@ -1,0 +1,2 @@
+First line of the sample FILE.
+Second line of the sample FILE.
